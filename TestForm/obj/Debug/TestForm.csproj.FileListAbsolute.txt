@@ -1,0 +1,13 @@
+C:\Users\Edward\source\repos\DatabaseTest\TestForm\bin\Debug\TestForm.exe.config
+C:\Users\Edward\source\repos\DatabaseTest\TestForm\bin\Debug\TestForm.exe
+C:\Users\Edward\source\repos\DatabaseTest\TestForm\bin\Debug\TestForm.pdb
+C:\Users\Edward\source\repos\DatabaseTest\TestForm\obj\Debug\TestForm.csprojAssemblyReference.cache
+C:\Users\Edward\source\repos\DatabaseTest\TestForm\obj\Debug\TestForm.Form1.resources
+C:\Users\Edward\source\repos\DatabaseTest\TestForm\obj\Debug\TestForm.Properties.Resources.resources
+C:\Users\Edward\source\repos\DatabaseTest\TestForm\obj\Debug\TestForm.csproj.GenerateResource.cache
+C:\Users\Edward\source\repos\DatabaseTest\TestForm\obj\Debug\TestForm.csproj.CoreCompileInputs.cache
+C:\Users\Edward\source\repos\DatabaseTest\TestForm\obj\Debug\TestForm.exe
+C:\Users\Edward\source\repos\DatabaseTest\TestForm\obj\Debug\TestForm.pdb
+C:\Users\Edward\source\repos\DatabaseTest\TestForm\bin\Debug\Dapper.dll
+C:\Users\Edward\source\repos\DatabaseTest\TestForm\bin\Debug\Dapper.xml
+C:\Users\Edward\source\repos\DatabaseTest\TestForm\obj\Debug\TestForm.csproj.CopyComplete
